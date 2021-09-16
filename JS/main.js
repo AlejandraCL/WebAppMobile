@@ -1,2 +1,2 @@
 let texto=document.getElementById('texto');
-texto.innerHTML="Este texto es generado desde Javascript";
+texto.innerHTML="Modificación desde Javascript";
